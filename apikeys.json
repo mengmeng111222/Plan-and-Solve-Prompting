@@ -1,3 +1,6 @@
 [
-
+python main.py --prompt_id 201 \
+--dataset SVAMP \
+--engine text-davinci-003 \
+--learning_type zero_shot
 ]
